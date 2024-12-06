@@ -63,5 +63,5 @@ section{
 
 #container #diplome div img{
 	width: auto;
-	height: AUTO; /*Pour rendre une image responsive (ajustable à l'écran de l'apparail)*/
+	height: 75px; /*Pour rendre une image responsive (ajustable à l'écran de l'apparail)*/
 }
