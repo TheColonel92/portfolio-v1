@@ -61,7 +61,7 @@ section{
 	box-shadow: 5px 5px 5px black; /*Ajout d'un effet d'ombre 3D, horizontale, Verticale, Intensité*/
 }
 
-#container #diplome div img{
+#container #diplome section div img{
 	width: auto;
 	height: 75px; /*Pour rendre une image responsive (ajustable à l'écran de l'apparail)*/
 }
